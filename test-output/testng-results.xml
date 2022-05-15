@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-14T21:23:30 EDT" name="Default suite" finished-at="2022-05-14T21:23:37 EDT" duration-ms="6869">
+    <groups>
+    </groups>
+    <test started-at="2022-05-14T21:23:30 EDT" name="Default test" finished-at="2022-05-14T21:23:37 EDT" duration-ms="6869">
+      <class name="com.mil.mavenGitHub.FacebookTest">
+        <test-method signature="facebookTest()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@708f5957]" started-at="2022-05-14T21:23:30 EDT" name="facebookTest" finished-at="2022-05-14T21:23:37 EDT" duration-ms="6816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookTest -->
+      </class> <!-- com.mil.mavenGitHub.FacebookTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -21,6 +21,9 @@ public class FacebookTest {
 		String title = driver.getTitle();
 		System.out.println("Facebook page title is: " + title);
 		Assert.assertEquals(title, "Facebook - log in or sign up", "Facebook title mismatched");
+		
+		String url = driver.getCurrentUrl();
+		System.out.println("Facebook page url is: " + url);
 
 		driver.quit();
 	}
