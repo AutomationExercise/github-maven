@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-14T20:57:19 EDT" name="Surefire suite" finished-at="2022-05-14T20:57:25 EDT" duration-ms="5464">
+  <suite started-at="2022-05-16T17:34:11 EDT" name="Surefire suite" finished-at="2022-05-16T17:34:19 EDT" duration-ms="8331">
     <groups>
     </groups>
-    <test started-at="2022-05-14T20:57:19 EDT" name="Surefire test" finished-at="2022-05-14T20:57:25 EDT" duration-ms="5464">
+    <test started-at="2022-05-16T17:34:11 EDT" name="Surefire test" finished-at="2022-05-16T17:34:19 EDT" duration-ms="8331">
       <class name="com.mil.mavenGitHub.FacebookTest">
-        <test-method signature="facebookTest()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@3c87521]" started-at="2022-05-14T20:57:19 EDT" name="facebookTest" finished-at="2022-05-14T20:57:25 EDT" duration-ms="5418" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@48524010]" started-at="2022-05-16T17:34:11 EDT" name="setUp" finished-at="2022-05-16T17:34:15 EDT" duration-ms="4741" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- facebookTest -->
+        </test-method> <!-- setUp -->
+        <test-method signature="facebookTitleTest()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@48524010]" started-at="2022-05-16T17:34:15 EDT" name="facebookTitleTest" finished-at="2022-05-16T17:34:15 EDT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@48524010]" started-at="2022-05-16T17:34:15 EDT" name="tearDown" finished-at="2022-05-16T17:34:16 EDT" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@48524010]" started-at="2022-05-16T17:34:16 EDT" name="setUp" finished-at="2022-05-16T17:34:19 EDT" duration-ms="2893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="facebookUrlTest()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@48524010]" started-at="2022-05-16T17:34:19 EDT" name="facebookUrlTest" finished-at="2022-05-16T17:34:19 EDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookUrlTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@48524010]" started-at="2022-05-16T17:34:19 EDT" name="tearDown" finished-at="2022-05-16T17:34:19 EDT" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- com.mil.mavenGitHub.FacebookTest -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
