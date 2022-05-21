@@ -2,7 +2,11 @@
 Test set: com.mil.mavenGitHub.FacebookTest
 -------------------------------------------------------------------------------
 <<<<<<< HEAD
+<<<<<<< HEAD
 Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.428 s - in com.mil.mavenGitHub.FacebookTest
 =======
 Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.376 s - in com.mil.mavenGitHub.FacebookTest
 >>>>>>> 604f371f57b2cfbf193f7265fcbd6a1a16021129
+=======
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.576 s - in com.mil.mavenGitHub.FacebookTest
+>>>>>>> 07200497779b5f197278d8baeb018b01630f0e89

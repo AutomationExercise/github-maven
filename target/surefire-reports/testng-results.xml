@@ -3,6 +3,7 @@
   <reporter-output>
   </reporter-output>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <suite started-at="2022-05-20T20:03:26 EDT" name="Surefire suite" finished-at="2022-05-20T20:03:38 EDT" duration-ms="12333">
     <groups>
     </groups>
@@ -31,32 +32,39 @@
         <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@192c3f1e]" started-at="2022-05-20T20:03:38 EDT" name="tearDown" finished-at="2022-05-20T20:03:38 EDT" duration-ms="670" status="PASS">
 =======
   <suite started-at="2022-05-21T15:56:15 EDT" name="Surefire suite" finished-at="2022-05-21T15:56:28 EDT" duration-ms="13303">
+=======
+  <suite started-at="2022-05-21T17:01:40 EDT" name="Surefire suite" finished-at="2022-05-21T17:01:51 EDT" duration-ms="11607">
+>>>>>>> 07200497779b5f197278d8baeb018b01630f0e89
     <groups>
     </groups>
-    <test started-at="2022-05-21T15:56:15 EDT" name="Surefire test" finished-at="2022-05-21T15:56:28 EDT" duration-ms="13303">
+    <test started-at="2022-05-21T17:01:40 EDT" name="Surefire test" finished-at="2022-05-21T17:01:51 EDT" duration-ms="11607">
       <class name="com.mil.mavenGitHub.FacebookTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@192c3f1e]" started-at="2022-05-21T15:56:15 EDT" name="setUp" finished-at="2022-05-21T15:56:23 EDT" duration-ms="8516" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@26b3fd41]" started-at="2022-05-21T17:01:40 EDT" name="setUp" finished-at="2022-05-21T17:01:46 EDT" duration-ms="6652" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="facebookTitleTest()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@192c3f1e]" started-at="2022-05-21T15:56:23 EDT" name="facebookTitleTest" finished-at="2022-05-21T15:56:23 EDT" duration-ms="19" status="PASS">
+        <test-method signature="facebookTitleTest()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@26b3fd41]" started-at="2022-05-21T17:01:46 EDT" name="facebookTitleTest" finished-at="2022-05-21T17:01:46 EDT" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- facebookTitleTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@192c3f1e]" started-at="2022-05-21T15:56:23 EDT" name="tearDown" finished-at="2022-05-21T15:56:24 EDT" duration-ms="819" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@26b3fd41]" started-at="2022-05-21T17:01:46 EDT" name="tearDown" finished-at="2022-05-21T17:01:47 EDT" duration-ms="859" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@192c3f1e]" started-at="2022-05-21T15:56:24 EDT" name="setUp" finished-at="2022-05-21T15:56:27 EDT" duration-ms="3113" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@26b3fd41]" started-at="2022-05-21T17:01:47 EDT" name="setUp" finished-at="2022-05-21T17:01:50 EDT" duration-ms="3251" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="facebookUrlTest()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@192c3f1e]" started-at="2022-05-21T15:56:27 EDT" name="facebookUrlTest" finished-at="2022-05-21T15:56:27 EDT" duration-ms="7" status="PASS">
+        <test-method signature="facebookUrlTest()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@26b3fd41]" started-at="2022-05-21T17:01:50 EDT" name="facebookUrlTest" finished-at="2022-05-21T17:01:50 EDT" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- facebookUrlTest -->
+<<<<<<< HEAD
         <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@192c3f1e]" started-at="2022-05-21T15:56:27 EDT" name="tearDown" finished-at="2022-05-21T15:56:28 EDT" duration-ms="778" status="PASS">
 >>>>>>> 604f371f57b2cfbf193f7265fcbd6a1a16021129
+=======
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mil.mavenGitHub.FacebookTest@26b3fd41]" started-at="2022-05-21T17:01:50 EDT" name="tearDown" finished-at="2022-05-21T17:01:51 EDT" duration-ms="772" status="PASS">
+>>>>>>> 07200497779b5f197278d8baeb018b01630f0e89
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
