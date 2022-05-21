@@ -14,9 +14,7 @@ public class FacebookTest {
 
 	@BeforeMethod
 	public void setUp() {
-		WebDriverManager.chromedriver().setup();
-		driver = new ChromeDriver();
-		driver.manage().window().maximize();
+		openBrowser();
 		driver.get("https://www.facebook.com/");
 		driver.manage().deleteAllCookies();
 	}
@@ -38,5 +36,11 @@ public class FacebookTest {
 	@AfterMethod
 	public void tearDown() {
 		driver.quit();
+	}
+
+	public void openBrowser() {
+		WebDriverManager.chromedriver().setup();
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
 	}
 }
