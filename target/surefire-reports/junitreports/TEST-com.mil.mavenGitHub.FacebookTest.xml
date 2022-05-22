@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <testsuite hostname="DESKTOP-R0NL5GO" failures="0" tests="2" name="com.mil.mavenGitHub.FacebookTest" time="12.245" errors="0" timestamp="2022-05-20T20:03:39 EDT" skipped="0">
   <testcase classname="com.mil.mavenGitHub.FacebookTest" name="facebookTitleTest" time="8.622"/>
   <system-out/>
@@ -26,6 +27,12 @@
   <system-out/>
   <testcase classname="com.mil.mavenGitHub.FacebookTest" name="facebookTitleTest" time="3.933"/>
 >>>>>>> 4360b9b0dc28218ccc3c5d8da5accde8078058b2
+=======
+<testsuite hostname="DESKTOP-R0NL5GO" failures="0" tests="2" name="com.mil.mavenGitHub.FacebookTest" time="10.807" errors="0" timestamp="2022-05-21T16:08:19 EDT" skipped="0">
+  <testcase classname="com.mil.mavenGitHub.FacebookTest" name="facebookUrlTest" time="6.691"/>
+  <system-out/>
+  <testcase classname="com.mil.mavenGitHub.FacebookTest" name="facebookTitleTest" time="4.116"/>
+>>>>>>> feature
 =======
 <testsuite hostname="DESKTOP-R0NL5GO" failures="0" tests="2" name="com.mil.mavenGitHub.FacebookTest" time="10.807" errors="0" timestamp="2022-05-21T16:08:19 EDT" skipped="0">
   <testcase classname="com.mil.mavenGitHub.FacebookTest" name="facebookUrlTest" time="6.691"/>
