@@ -36,6 +36,11 @@ public class FacebookTest {
 		System.out.println("Facebook page url is: " + url);
 		Assert.assertEquals(url, expUrl, "Facebook url is mismatched");
 	}
+	
+	@Test
+	public void printStatement() {
+		System.out.println("Print statement");
+	}
 
 	@AfterMethod
 	public void tearDown() {
