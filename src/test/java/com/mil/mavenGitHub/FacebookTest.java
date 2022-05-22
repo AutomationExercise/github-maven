@@ -32,8 +32,9 @@ public class FacebookTest {
 	@Test
 	public void facebookUrlTest() {
 		String url = driver.getCurrentUrl();
+		String expUrl = "https://www.facebook.com/";
 		System.out.println("Facebook page url is: " + url);
-		Assert.assertEquals(url, "https://www.facebook.com/", "Facebook url is mismatched");
+		Assert.assertEquals(url, expUrl, "Facebook url is mismatched");
 	}
 
 	@AfterMethod
