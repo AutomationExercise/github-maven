@@ -38,7 +38,11 @@ public class FacebookTest {
 	}
 	
 	@Test
-	public void printStatement() {
+	public void printStatement1() {
+		System.out.println("Print statement");
+	}
+	@Test
+	public void printStatement2() {
 		System.out.println("Print statement");
 	}
 
