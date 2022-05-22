@@ -24,8 +24,9 @@ public class FacebookTest {
 	@Test
 	public void facebookTitleTest() {
 		String title = driver.getTitle();
+		String expTitle = "Facebook - log in or sign up";
 		System.out.println("Facebook page title is: " + title);
-		Assert.assertEquals(title, "Facebook - log in or sign up", "Facebook title is mismatched");
+		Assert.assertEquals(title, expTitle, "Facebook title is mismatched");
 	}
 
 	@Test
