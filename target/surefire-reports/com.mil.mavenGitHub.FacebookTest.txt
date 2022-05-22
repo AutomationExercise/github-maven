@@ -4,6 +4,7 @@ Test set: com.mil.mavenGitHub.FacebookTest
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.428 s - in com.mil.mavenGitHub.FacebookTest
 =======
 Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.376 s - in com.mil.mavenGitHub.FacebookTest
@@ -14,3 +15,6 @@ Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.576 s - in co
 =======
 Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.667 s - in com.mil.mavenGitHub.FacebookTest
 >>>>>>> 4360b9b0dc28218ccc3c5d8da5accde8078058b2
+=======
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.799 s - in com.mil.mavenGitHub.FacebookTest
+>>>>>>> feature

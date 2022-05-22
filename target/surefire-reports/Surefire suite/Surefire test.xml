@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <testsuite ignored="0" hostname="DESKTOP-R0NL5GO" failures="0" tests="2" name="Surefire test" time="12.333" errors="0" timestamp="2022-05-20T20:03:38 EDT">
   <testcase classname="com.mil.mavenGitHub.FacebookTest" name="facebookTitleTest" time="0.016"/>
   <testcase classname="com.mil.mavenGitHub.FacebookTest" name="facebookUrlTest" time="0.011"/>
@@ -21,4 +22,9 @@
   <testcase classname="com.mil.mavenGitHub.FacebookTest" name="facebookTitleTest" time="0.016"/>
   <testcase classname="com.mil.mavenGitHub.FacebookTest" name="facebookUrlTest" time="0.008"/>
 >>>>>>> 4360b9b0dc28218ccc3c5d8da5accde8078058b2
+=======
+<testsuite ignored="0" hostname="DESKTOP-R0NL5GO" failures="0" tests="2" name="Surefire test" time="10.86" errors="0" timestamp="2022-05-21T16:08:18 EDT">
+  <testcase classname="com.mil.mavenGitHub.FacebookTest" name="facebookTitleTest" time="0.023"/>
+  <testcase classname="com.mil.mavenGitHub.FacebookTest" name="facebookUrlTest" time="0.014"/>
+>>>>>>> feature
 </testsuite> <!-- Surefire test -->
